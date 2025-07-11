@@ -39,4 +39,12 @@ I’m a curious technologist who thrives at the intersection of **computer engin
 
 ---
 
+## 🗣️ Beyond Tech
+
+Outside of engineering and innovation, I'm deeply interested in **human connection** — working with people, understanding perspectives, and developing the art of meaningful conversation. Whether it’s collaborating on ideas, leading discussions, or just being present in a room full of thinkers, I’m on a journey to become a better **listener, communicator, and conversationalist**.
+
+I believe the future isn't just built on code — it's built on **clarity, empathy, and collaboration**.
+
+---
+
 ![Qammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qammarbhat&show_icons=true&theme=algolia)
